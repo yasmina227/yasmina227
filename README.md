@@ -1,5 +1,10 @@
-<h1 color="pink">Hi there, I'm Yasmina 👋 </h1>
-<h1 color="pink"> MERN Stack Developer | Competitive Programmer </h1>
+<div align="center">
+  <h1>Hi there, I'm Yasmina 👋</h1>
+  <img src="https://img.shields.io/badge/MERN%20Stack%20Developer-FF69B4?style=for-the-badge" alt="MERN">
+  <img src="https://img.shields.io/badge/Competitive%20Programmer-FFB6C1?style=for-the-badge" alt="CP">
+</div>
+
+---
 
 <p align="left">
   <img src="https://img.shields.io/badge/Main%20Focus-Full%20Stack%20Web%20Development-FF69B4?style=for-the-badge&logoColor=white" alt="Main Focus">
