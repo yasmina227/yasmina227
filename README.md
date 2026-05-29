@@ -54,7 +54,10 @@ I am a passionate Full-Stack Developer specializing in the **MERN Stack**, with 
 </p>
 
 ---
-
+ <p align="center">
+  <!-- هنا الكود السحري الذي يقوم بتحويل المربعات للون البينك ويجعل القطة تتحرك وتأكل المربعات الفارغة والممتلئة بناءً على إحصائياتك الحقيقية -->
+  <img src="https://raw.githubusercontent.com/yasmina227/yasmina227/output/github-contribution-grid-snake-pink.svg" alt="Pink GitHub Contribution Animation" width="100%">
+</p> 
 ## 📫 Connect With Me
 
 <p align="left">
