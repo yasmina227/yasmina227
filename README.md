@@ -1,20 +1,20 @@
-# Hi there, I'm Yasmina👋 
-### MERN Stack Developer | Competitive Programmer 
+# Hi there, I'm Yasmina 👋 
+### MERN Stack Developer | Competitive Programmer | 2D Animator 🦋
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Main%20Focus-Full%20Stack%20Web%20Development-blue?style=for-the-badge" alt="Main Focus">
-  <img src="https://img.shields.io/badge/Education-Computer%20Science%20Student-orange?style=for-the-badge" alt="Education">
+  <img src="https://img.shields.io/badge/Main%20Focus-Full%20Stack%20Web%20Development-FF69B4?style=for-the-badge&logoColor=white" alt="Main Focus">
+  <img src="https://img.shields.io/badge/Education-Computer%20Science%20Student-FFB6C1?style=for-the-badge&logoColor=black" alt="Education">
 </p>
 
 ---
 
-## 💫 About Me
+## 💫 About Me 🐾
 
-I am a passionate Full-Stack Developer specializing in the **MERN Stack**, with a strong foundation in **Computer Science** and **Competitive Programming**. I focus on building scalable, clean-code web applications with great user experiences.
+I am a passionate Full-Stack Developer specializing in the **MERN Stack**, with a strong foundation in **Computer Science** and **Competitive Programming**. I focus on building scalable, clean-code web applications with great user experiences, while also exploring my creative side through digital art and 2D animation.
 
 
 
-## 🛠️ Tech Stack & Skills
+## 🛠️ Tech Stack & Skills (Pink Styled)
 
 ### 🌐 Frontend & UI
 <p align="left">
@@ -33,13 +33,37 @@ I am a passionate Full-Stack Developer specializing in the **MERN Stack**, with 
   <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white" alt="Redux">
 </p>
 
-### 🧰 Tools & Platforms
-<p align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman">
+
+## 📊 GitHub Contribution & Stats (Pink Theme & Butterflies) 🦋
+
+<!-- هنا دمجنا الفراشات المتحركة وثيم المربعات البينك -->
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXN5YXNnd280Zms1OHd0YTM5bXN0Y3g5dm93YTI4aG9rN3R5Y3Z1dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3o7bu3XilJ5BOYw7g4/giphy.gif" width="150" alt="Pink Butterfly Animation"/>
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=buefy&icon_color=ff69b4&text_color=ffb6c1&bg_color=1a1a2e&title_color=ff69b4&count_private=true" alt="Yasmin's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=buefy&text_color=ffb6c1&bg_color=1a1a2e&title_color=ff69b4" alt="Top Languages" width="48%" />
+</p>
 
+<p align="center">
+  <!-- الـ Contribution Graph باللون البينك -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=your-github-username&theme=pink" width="100%" alt="Pink Activity Graph" />
+</p>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXN5YXNnd280Zms1OHd0YTM5bXN0Y3g5dm93YTI4aG9rN3R5Y3Z1dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3o7bu3XilJ5BOYw7g4/giphy.gif" width="80" alt="Small Pink Butterfly"/>
+</p>
 
+---
+
+## 📫 Connect With Me
+
+<p align="left">
+  <a href="https://linkedin.com/in/your-linkedin-username" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
