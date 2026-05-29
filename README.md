@@ -1,5 +1,5 @@
-# Hi there, I'm Yasmina 👋 
-### MERN Stack Developer | Competitive Programmer 
+<h1 color="pink">Hi there, I'm Yasmina 👋 </h1>
+<h1 color="pink"> MERN Stack Developer | Competitive Programmer </h1>
 
 <p align="left">
   <img src="https://img.shields.io/badge/Main%20Focus-Full%20Stack%20Web%20Development-FF69B4?style=for-the-badge&logoColor=white" alt="Main Focus">
