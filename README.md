@@ -36,19 +36,17 @@ I am a passionate Full-Stack Developer specializing in the **MERN Stack**, with 
 
 ## 📊 GitHub Contribution & Stats (Pink Theme & Butterflies) 🦋
 
-<!-- هنا دمجنا الفراشات المتحركة وثيم المربعات البينك -->
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXN5YXNnd280Zms1OHd0YTM5bXN0Y3g5dm93YTI4aG9rN3R5Y3Z1dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3o7bu3XilJ5BOYw7g4/giphy.gif" width="150" alt="Pink Butterfly Animation"/>
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=buefy&icon_color=ff69b4&text_color=ffb6c1&bg_color=1a1a2e&title_color=ff69b4&count_private=true" alt="Yasmin's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=buefy&text_color=ffb6c1&bg_color=1a1a2e&title_color=ff69b4" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasmina227&layout=compact&theme=buefy&text_color=ffb6c1&bg_color=1a1a2e&title_color=ff69b4" alt="Top Languages" width="48%" />
 </p>
 
 <p align="center">
-  <!-- الـ Contribution Graph باللون البينك -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=your-github-username&theme=pink" width="100%" alt="Pink Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yasmina227&theme=pink" width="100%" alt="Pink Activity Graph" />
 </p>
 
 <p align="center">
