@@ -1,5 +1,5 @@
 # Hi there, I'm Yasmina 👋 
-### MERN Stack Developer | Competitive Programmer | 2D Animator 🦋
+### MERN Stack Developer | Competitive Programmer 
 
 <p align="left">
   <img src="https://img.shields.io/badge/Main%20Focus-Full%20Stack%20Web%20Development-FF69B4?style=for-the-badge&logoColor=white" alt="Main Focus">
@@ -10,7 +10,7 @@
 
 ## 💫 About Me 🐾
 
-I am a passionate Full-Stack Developer specializing in the **MERN Stack**, with a strong foundation in **Computer Science** and **Competitive Programming**. I focus on building scalable, clean-code web applications with great user experiences, while also exploring my creative side through digital art and 2D animation.
+I am a passionate Full-Stack Developer specializing in the **MERN Stack**, with a strong foundation in **Computer Science** and **Competitive Programming**. I focus on building scalable, clean-code web applications with great user experiences.
 
 
 
@@ -34,7 +34,7 @@ I am a passionate Full-Stack Developer specializing in the **MERN Stack**, with 
 </p>
 
 
-## 📊 GitHub Contribution & Stats (Pink Theme & Butterflies) 🦋
+## 📊 GitHub Contribution 
 
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXN5YXNnd280Zms1OHd0YTM5bXN0Y3g5dm93YTI4aG9rN3R5Y3Z1dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3o7bu3XilJ5BOYw7g4/giphy.gif" width="150" alt="Pink Butterfly Animation"/>
