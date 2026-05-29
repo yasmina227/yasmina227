@@ -1,8 +1,7 @@
-<div align="center">
-  <h1>Hi there, I'm Yasmina 👋</h1>
-  <img src="https://img.shields.io/badge/MERN%20Stack%20Developer-FF69B4?style=for-the-badge" alt="MERN">
-  <img src="https://img.shields.io/badge/Competitive%20Programmer-FFB6C1?style=for-the-badge" alt="CP">
-</div>
+
+  $$\color{HotPink}{\text{Hi there, I'm Yasmina 👋}}$$
+  $$\color{HotPink}{\text{MERN Stack Developer | Competitive Programmer}}$$
+
 
 ---
 
