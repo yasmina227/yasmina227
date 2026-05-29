@@ -1,5 +1,5 @@
 # Hi there, I'm Yasmin Samak 👋 
-### MERN Stack Developer | Competitive Programmer | 2D Animator
+### MERN Stack Developer | Competitive Programmer 
 
 <p align="left">
   <img src="https://img.shields.io/badge/Main%20Focus-Full%20Stack%20Web%20Development-blue?style=for-the-badge" alt="Main Focus">
@@ -10,14 +10,9 @@
 
 ## 💫 About Me
 
-I am a passionate Full-Stack Developer specializing in the **MERN Stack**, with a strong foundation in **Computer Science** and **Competitive Programming**. I focus on building scalable, clean-code web applications with great user experiences, while also exploring my creative side through digital art and 2D animation.
+I am a passionate Full-Stack Developer specializing in the **MERN Stack**, with a strong foundation in **Computer Science** and **Competitive Programming**. I focus on building scalable, clean-code web applications with great user experiences.
 
-* 🎓 **Education:** Computer Science Student at Menofia University (GPA: 3.49)
-* 💡 **Interests:** Scalable Architecture, Clean Code Practices, UI/UX Design, and Problem Solving.
-* 🏆 **Competitive Programming:** Active competitor preparing for the **ICPC 2026** season.
-* 🎨 **Creative Side:** 2D Artist and Animator blending vintage aesthetics with modern design.
 
----
 
 ## 🛠️ Tech Stack & Skills
 
@@ -45,38 +40,11 @@ I am a passionate Full-Stack Developer specializing in the **MERN Stack**, with 
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman">
 </p>
 
----
 
-## 🚀 Featured Projects
-
-### 🌤️ [Weather Forecasting App](https://github.com/yourusername/your-repo)
-A full-stack weather application providing real-time forecasts and data visualization.
-* **Tech Stack:** Node.js, Express.js, Mapbox API, Weather API.
-* **Key Features:** Clean asynchronous handling, responsive UI, dynamic location mapping.
-
-### 🌱 [E-Commerce Plant Shop](https://github.com/yourusername/your-repo)
-An elegant, user-friendly frontend storefront designed for intuitive shopping experiences.
-* **Tech Stack:** JavaScript (ES6+), Bootstrap, CSS3.
-* **Key Features:** Dynamic cart functionality, responsive product grids, smooth layouts.
-
----
 
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight&count_private=true" alt="Yasmin's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
-</p>
-
----
-
-## 📫 Connect With Me
-
-<p align="left">
-  <a href="https://linkedin.com/in/your-linkedin-username" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=yasmina227&show_icons=true&theme=tokyonight&count_private=true" alt="Yasmin's GitHub Stats" width="48%" />
+ 
 </p>
