@@ -42,9 +42,4 @@ I am a passionate Full-Stack Developer specializing in the **MERN Stack**, with 
 
 
 
-## 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yasmina227&show_icons=true&theme=tokyonight&count_private=true" alt="Yasmin's GitHub Stats" width="48%" />
- 
-</p>
