@@ -41,7 +41,7 @@ I am a passionate Full-Stack Developer specializing in the **MERN Stack**, with 
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=buefy&icon_color=ff69b4&text_color=ffb6c1&bg_color=1a1a2e&title_color=ff69b4&count_private=true" alt="Yasmin's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yasmina227&show_icons=true&theme=buefy&icon_color=ff69b4&text_color=ffb6c1&bg_color=1a1a2e&title_color=ff69b4&count_private=true" alt="Yasmin's GitHub Stats" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasmina227&layout=compact&theme=buefy&text_color=ffb6c1&bg_color=1a1a2e&title_color=ff69b4" alt="Top Languages" width="48%" />
 </p>
 
