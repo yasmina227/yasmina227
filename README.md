@@ -8,13 +8,13 @@
 
 ---
 
-## 💫 About Me 🐾
+## 🐾 About Me 
 
 I am a passionate Full-Stack Developer specializing in the **MERN Stack**, with a strong foundation in **Computer Science** and **Competitive Programming**. I focus on building scalable, clean-code web applications with great user experiences.
 
 
 
-## 🛠️ Tech Stack & Skills (Pink Styled)
+## 🛠️ Tech Stack & Skills 
 
 ### 🌐 Frontend & UI
 <p align="left">
