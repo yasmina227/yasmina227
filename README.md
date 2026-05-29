@@ -1,4 +1,4 @@
-# Hi there, I'm Yasmin Samak 👋 
+# Hi there, I'm Yasmina👋 
 ### MERN Stack Developer | Competitive Programmer 
 
 <p align="left">
