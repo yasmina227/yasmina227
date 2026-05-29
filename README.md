@@ -40,10 +40,7 @@ I am a passionate Full-Stack Developer specializing in the **MERN Stack**, with 
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXN5YXNnd280Zms1OHd0YTM5bXN0Y3g5dm93YTI4aG9rN3R5Y3Z1dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3o7bu3XilJ5BOYw7g4/giphy.gif" width="150" alt="Pink Butterfly Animation"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yasmina227&show_icons=true&theme=buefy&icon_color=ff69b4&text_color=ffb6c1&bg_color=1a1a2e&title_color=ff69b4&count_private=true" alt="Yasmin's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasmina227&layout=compact&theme=buefy&text_color=ffb6c1&bg_color=1a1a2e&title_color=ff69b4" alt="Top Languages" width="48%" />
-</p>
+
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=yasmina227&theme=pink" width="100%" alt="Pink Activity Graph" />
@@ -54,10 +51,7 @@ I am a passionate Full-Stack Developer specializing in the **MERN Stack**, with 
 </p>
 
 ---
- <p align="center">
-  <!-- هنا الكود السحري الذي يقوم بتحويل المربعات للون البينك ويجعل القطة تتحرك وتأكل المربعات الفارغة والممتلئة بناءً على إحصائياتك الحقيقية -->
-  <img src="https://raw.githubusercontent.com/yasmina227/yasmina227/output/github-contribution-grid-snake-pink.svg" alt="Pink GitHub Contribution Animation" width="100%">
-</p> 
+
 ## 📫 Connect With Me
 
 <p align="left">
