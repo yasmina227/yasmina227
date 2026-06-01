@@ -37,7 +37,7 @@ I am a passionate Full-Stack Developer specializing in the **MERN Stack**, with 
   <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white" alt="Redux">
 </p>
 <!-- my visits -->
-<p align="center">
+<p align="">
   <img src="https://komarev.com/ghpvc/?username=yasmina227&color=blue&style=flat-square" alt=" visits" />
 </p>
 
