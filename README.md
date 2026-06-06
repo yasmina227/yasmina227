@@ -43,9 +43,6 @@ I am a passionate Full-Stack Developer specializing in the **MERN Stack**, with 
 
 ## 📊 GitHub Contribution 
 
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXN5YXNnd280Zms1OHd0YTM5bXN0Y3g5dm93YTI4aG9rN3R5Y3Z1dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3o7bu3XilJ5BOYw7g4/giphy.gif" width="150" alt="Pink Butterfly Animation"/>
-</p>
 
 
 
@@ -53,9 +50,7 @@ I am a passionate Full-Stack Developer specializing in the **MERN Stack**, with 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=yasmina227&theme=pink" width="100%" alt="Pink Activity Graph" />
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXN5YXNnd280Zms1OHd0YTM5bXN0Y3g5dm93YTI4aG9rN3R5Y3Z1dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3o7bu3XilJ5BOYw7g4/giphy.gif" width="80" alt="Small Pink Butterfly"/>
-</p>
+
 
 ---
 
