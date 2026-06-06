@@ -1,6 +1,6 @@
 
- # $$\color{HotPink}{\text{Hi there, I'm Yasmina 👋}}$$
- ## $$\color{HotPink}{\text{MERN Stack Developer | Competitive Programmer}}$$
+<h1>Hi there, I'm Yasmina 👋</h1>
+<h2>MERN Stack Developer | Competitive Programmer </h2>
 
 
 ---
